@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/background"
+    tools:context="com.x18392911.final.advocate.recommendations.Register">
+
+
+    <EditText android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/NameRegister"
+        android:inputType="textEmailAddress"
+        android:padding="12dp"
+        android:layout_margin="10dp"
+        android:hint="name"
+        />
+
+
+    <EditText android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/EmailRegister"
+        android:inputType="textEmailAddress"
+        android:padding="12dp"
+        android:layout_margin="10dp"
+        android:hint="email"
+        />
+
+
+    <EditText android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/PasswordRegister"
+        android:inputType="textPassword"
+        android:padding="12dp"
+        android:layout_margin="10dp"
+        android:hint="password"
+        />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/RegisterBtn"
+        android:padding="12dp"
+        android:layout_margin="10dp"
+        android:text="Register"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/LoginBtn"
+        android:padding="12dp"
+        android:layout_margin="10dp"
+        android:text="Login"
+        />
+
+</LinearLayout>

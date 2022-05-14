@@ -1,0 +1,213 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context="com.x18392911.final.advocate.recommendations.Movies">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:layout_gravity="center_horizontal" >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#070707"
+                android:fontFamily="sans-serif-black"
+                android:text="Free Movies"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btnMovie1"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="The General" />
+
+            <Button
+                android:id="@+id/btnMovie2"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Kick Ass" />
+
+            <Button
+                android:id="@+id/btnMovie3"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Snatch" />
+
+            <Button
+                android:id="@+id/btnMovie4"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="The Wrestler" />
+
+            <Button
+                android:id="@+id/btnMovie5"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="The Score" />
+
+            <Button
+                android:id="@+id/btnMovie6"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Mr.Magorium's Wonder Emporium" />
+
+            <Button
+                android:id="@+id/btnMovie7"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Project X" />
+
+            <Button
+                android:id="@+id/btnMovie8"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Home" />
+
+            <Button
+                android:id="@+id/btnMovie9"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Straight Outta Compton" />
+
+            <Button
+                android:id="@+id/btnMovie10"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Matilda" />
+
+            <Button
+                android:id="@+id/btnMovie11"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Green Street Hooligans" />
+
+            <Button
+                android:id="@+id/btnMovie12"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Limitless" />
+
+            <Button
+                android:id="@+id/btnMovie13"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Never Been Kissed" />
+
+            <Button
+                android:id="@+id/btnMovie14"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="The Girl Next Door" />
+
+            <Button
+                android:id="@+id/btnMovie15"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Dear John" />
+
+            <Button
+                android:id="@+id/btnMovie16"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Cinderella Man" />
+
+            <Button
+                android:id="@+id/btnMovie17"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Scary Movie 5" />
+
+            <Button
+                android:id="@+id/btnMovie18"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Kevin and Perry Go Large" />
+
+            <Button
+                android:id="@+id/btnMovie19"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Fast and Furious 9" />
+
+            <Button
+                android:id="@+id/btnMovie20"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Anne Frank (The Whole Story)" />
+
+            <Button
+                android:id="@+id/btnMovie21"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="The Curse of Humpty Dumpty" />
+
+            <Button
+                android:id="@+id/btnMovie22"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="The Evil Down Street" />
+
+            <Button
+                android:id="@+id/btnMovie23"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Deceive" />
+
+            <Button
+                android:id="@+id/btnMovie24"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Be Careful" />
+
+            <Button
+                android:id="@+id/btnMovie25"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Tecumseth" />
+
+            <Button
+                android:id="@+id/btnMovie26"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Hannibal" />
+
+            <Button
+                android:id="@+id/btnMovie27"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Suprise Me!" />
+
+            <Button
+                android:id="@+id/btnMovie28"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Lost Heart" />
+
+            <Button
+                android:id="@+id/btnMovie29"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="Teen Musical" />
+
+            <Button
+                android:id="@+id/btnMovie30"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="High School Musical" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

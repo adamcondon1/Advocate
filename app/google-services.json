@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251323981405",
+    "project_id": "advocate-55442",
+    "storage_bucket": "advocate-55442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251323981405:android:99e45723a432ff1a6fb7b4",
+        "android_client_info": {
+          "package_name": "package com.x18392911.final.recommendations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251323981405-st8rubdtnhim9100oupuec6mhlabnuv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oFGlstd3rUoT-Ykv6VjNiZwlkt7DIQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251323981405-st8rubdtnhim9100oupuec6mhlabnuv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

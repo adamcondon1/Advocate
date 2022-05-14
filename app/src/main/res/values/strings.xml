@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Advocate</string>
+    <string name="search_hint">Search</string>
+    <string name="liked_movies_title">liked</string>
+    <string name="movie_list_title">movies</string>
+    <string name="gallery_title" translation_description="Title for the photo gallery screen">Photos by Unsplash</string>
+    <string name="recommended_list_title">Recommended</string>
+    <string name="sign_in_menu_title">Sign in</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="store_name" translatable="false">Auto T-Shirt Shop</string>
+    <string name="googlepay_status_unavailable" translatable="false">Unfortunately, Google Pay is not available on this phone.</string>
+    <string name="googlepay_status_checking" translatable="false">Checking if Google Pay is available...</string>
+    <string name="payments_show_name" translatable="false">Successfully received payment data for %s!</string>
+    <string name="product_added">Product successfully add to cart</string>
+    <string name="googlepay_button_content_description">Google Pay</string>
+    <string name="buy_with_googlepay_button_content_description">Buy with Google Pay</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_card_details">Enter Your Card Details</string>
+    <string name="card_capture">Card Capture</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="card_details_are_stored_securely">Card details are stored securely</string>
+    <string-array name="quantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>

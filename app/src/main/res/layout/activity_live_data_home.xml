@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context="com.x18392911.final.advocate.recommendations.LiveDataHome">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#070707"
+        android:fontFamily="sans-serif-black"
+        android:text="Live Data TMDB API"
+        android:textColor="#4CAF50"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="165dp"
+        android:layout_height="162dp"
+        app:srcCompat="@drawable/live" />
+
+    <Button
+        android:id="@+id/btnPopular"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Popular Movies" />
+
+    <Button
+        android:id="@+id/btnTopRated"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Top Rated Movies" />
+
+    <Button
+        android:id="@+id/btnUpcoming"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="New Releases" />
+
+    <Button
+        android:id="@+id/btnPay"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Leave a Tip?" />
+
+
+
+
+</LinearLayout>

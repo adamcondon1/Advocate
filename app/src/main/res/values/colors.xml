@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="advocate_black">#de000000</color>
+    <color name="advocate_white">#fafafa</color>
+    <color name="advocate_gray">#99fafafa</color>
+    <color name="advocate_white2">#deffffff</color>
+    <color name="advocate_yellow">#f8f99f</color>
+    <color name="advocate_yellow_500">#ffff63</color>
+    <color name="advocate_blue">#039BE5</color>
+    <color name="advocate_darkblue">#006db3</color>
+    <color name="advocate_lightblue">#FFFFFF</color>
+    <color name="advocate_vlightblue">#C6EDFF</color>
+    <color name="advocate_yellow_501">#FFCA28</color>
+    <color name="advocate_byellow">#FFCC30</color>
+    <color name="advocate_oj">#FF9F00</color>
+    <color name="advocate_oj3">#FF8A65</color>
+    <color name="advocate_green">#00BFA5</color>
+</resources>
